@@ -1,0 +1,10 @@
+#folders
+node_modules/
+dhparam/
+contracts/artifacts
+test/
+
+#files
+.openzeppelin/.session
+.env
+
